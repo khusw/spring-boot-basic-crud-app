@@ -1,3 +1,4 @@
+/*
 package com.luv2code.springboot.crud.dao;
 
 import com.luv2code.springboot.crud.entity.Employee;
@@ -64,3 +65,4 @@ public class EmployeeDAOHibernateImpl implements EmployeeDAO {
         query.executeUpdate();
     }
 }
+*/

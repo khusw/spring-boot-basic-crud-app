@@ -1,3 +1,4 @@
+/*
 package com.luv2code.springboot.crud.dao;
 
 import com.luv2code.springboot.crud.entity.Employee;
@@ -13,3 +14,4 @@ public interface EmployeeDAO {
 
     void deleteById(int id);
 }
+*/
